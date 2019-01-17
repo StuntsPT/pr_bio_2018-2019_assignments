@@ -1,0 +1,16 @@
+>Sequência Ambígua
+ATGACATTCCCCGAGATATAG
+>Sequência não ambígua 1
+ATGACATTCCCAGAGATATAG
+>Sequência não ambígua 2
+ATGACGTTCCCCGAGATATAG
+>Sequência não ambígua 3
+ATGACATTCCCCGAGATTTAG
+>Reverso da Sequência não ambígua 1
+GATATAGAGACCCTTACAGTA
+>Complemento da Sequência não ambígua 1
+TTCTGTTTGGGTCTCTTTTTC
+>Complemento-Reverso da Sequência não ambígua 1
+CTTTTTCTCTGGGTTTGTCTT
+>Cadeia de Aminoácidos da Sequência não ambígua 1
+MTFPEI
