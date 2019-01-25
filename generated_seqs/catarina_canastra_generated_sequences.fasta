@@ -1,0 +1,16 @@
+>Sequence identifier
+ATGCBCVAAGCACNAHGCTAA
+>Another sequence identifier - 1
+ATGCCCGAAGCACTAAGCTAA
+>Another sequence identifier - 2
+ATGCTCAAAGCACGACGCTAA
+>Another sequence identifier - 3
+ATGCGCCAAGCACCATGCTAA
+>Reverse of the chosen sequence (1)
+AATCGAATCACGAAGCCCGTA
+>Complement of the chosen sequence (1)
+TACGGGCTTCGTGATTCGATT
+>Reverse-Complement of the chosen sequence (1)
+TTAGCTTAGTGCTTCGGGCAT
+>The amino-acid chain it produces (1)
+MPEALS
