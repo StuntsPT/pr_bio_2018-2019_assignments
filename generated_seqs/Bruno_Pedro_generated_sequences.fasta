@@ -1,0 +1,23 @@
+>Sequence containing ambiguities:
+ATGAARAGCAAYCARCAYTAG
+
+>First Unambiguous sequence:
+ATGAAGAGCAACCAACATTAG
+
+>Second unambiguous sequence:
+ATGAAGAGCAACCAACACTCG
+
+>Third unambiguous sequence:
+ATGAAAAGCAATCAGCACTAG
+
+>Reverse sequence of the second unambiguous sequence:
+GCTCACAACCAACGAGAAGTA
+
+>Complement sequence for the second unambiguous sequence:
+TACTTCTCGTTGGTTGTGAGC
+
+>Reverse Complement sequence for the second unambiguous sequence:
+CGAGTGTTGGTTGCTCTTCAT
+
+>Amino-acid chain for the second unambiguous sequence(1 letter encoding):
+MKSNQHS
