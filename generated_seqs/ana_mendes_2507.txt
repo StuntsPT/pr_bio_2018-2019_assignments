@@ -1,0 +1,23 @@
+>Sequence identifier(seq_0)
+ATGATTGTACNMAAKVCCTAA
+
+>Another sequence identifier(seq_1)
+ATGATTGTACAAAATCCCTAA
+
+>Another sequence identifier(seq_2)
+ATGATTGTACGCAAGGCCTAA
+
+>Another sequence identifier(seq_3)
+ATGATTGTACTCAAGACCTAA
+
+>The reverse sequence (seq_1)
+AATCCCTAAAACATGTTAGTA
+
+>The complement sequence (seq_1)
+TACTAACATGTTTTAGGGATT
+
+>The reverse-complement sequence (seq_1)
+TTAGGGATTTTGTACAATCAT
+
+>The amino-acid chain it produces (seq_1)
+M-I-V-Q-N-P
