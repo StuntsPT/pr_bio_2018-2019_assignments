@@ -1,0 +1,22 @@
+>Sequence identifier
+ATG-VTG-AAA-BCT-DAT-HGG-TAG
+
+>Anothers sequence identifier
+ATG-ATG-AAA-CCT-DAT-AGG-TAG
+ATG-CTG-AAA-GCT-DAT-CGG-TAG
+ATG-GTG-AAA-TCT-DAT-TGG-TAG
+
+>Sequence identifier chosen
+TAC-CAC-TTT-GGA-GTA-TCC-ATC
+
+>Reverse
+CTA-CCT-ATG-AGG-TTT-CAC-CAT
+
+>Complement
+ATG-GTG-AAA-CCT-CAT-AGG-TAG
+
+>Reverse Complement
+GAT-GGA-TAC-TCC-AAA-GTG-GTA
+
+>Aminoacids
+MHFGVSL
